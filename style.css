@@ -1,0 +1,32 @@
+body{
+    background: linear-gradient(gold,silver);
+}
+span{
+    font-size: 30px;
+}
+h3{
+   height: 90px;
+   width: 200px; 
+   font-size: 50px;
+}
+
+#Camera{
+    border:dotted;
+    height: 350px;
+    width: 400px;;
+   }
+
+#Emoji_Answer1,#Emoji_Answer2{
+    color: orange;
+    font-size: 40px;
+    font-style: cursive;
+}
+#Emoji_Img,#Emoji_Img2{
+    font-size: 48px;
+}
+#Result{
+   
+    border: dotted;
+    height: 350px;
+    width: 400px;
+}
